@@ -1,0 +1,12 @@
+C:\Users\OS\source\repos\PLDTask\bin\Debug\PLDTask.exe.config
+C:\Users\OS\source\repos\PLDTask\bin\Debug\PLDTask.exe
+C:\Users\OS\source\repos\PLDTask\bin\Debug\PLDTask.pdb
+C:\Users\OS\source\repos\PLDTask\obj\Debug\PLDTask.csproj.AssemblyReference.cache
+C:\Users\OS\source\repos\PLDTask\obj\Debug\PLDTask.Properties.Resources.resources
+C:\Users\OS\source\repos\PLDTask\obj\Debug\PLDTask.csproj.GenerateResource.cache
+C:\Users\OS\source\repos\PLDTask\obj\Debug\PLDTask.csproj.CoreCompileInputs.cache
+C:\Users\OS\source\repos\PLDTask\obj\Debug\PLDTask.exe
+C:\Users\OS\source\repos\PLDTask\obj\Debug\PLDTask.pdb
+C:\Users\OS\source\repos\PLDTask\obj\Debug\PLDTask.exe.config
+C:\Users\OS\source\repos\PLDTask\obj\Debug\PLDTask.Form1.resources
+C:\Users\OS\source\repos\PLDTask\obj\Debug\PLDTask.csproj.Up2Date

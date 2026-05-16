@@ -1,0 +1,5 @@
+C:\Users\OS\source\repos\PLDTask\obj\Release\PLDProject.csproj.AssemblyReference.cache
+C:\Users\OS\source\repos\PLDTask\obj\Release\PLDTask.Form1.resources
+C:\Users\OS\source\repos\PLDTask\obj\Release\PLDTask.Properties.Resources.resources
+C:\Users\OS\source\repos\PLDTask\obj\Release\PLDProject.csproj.GenerateResource.cache
+C:\Users\OS\source\repos\PLDTask\obj\Release\PLDProject.csproj.CoreCompileInputs.cache
