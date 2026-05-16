@@ -73,14 +73,16 @@ PLD_Project/
 class Calculator Begin
     private int result;
     
-    public void Add(int a int b) Begin
-        result = a + b;
+    public int Add(int a , int b) Begin
+      return   result = a + b;
     Finish
 Finish
 
 Begin
     int x = 5;
     int y = 10;
+    Calculator calc = new Claculator();
+    int z= calc.add(5,10);
 Finish
 ```
 
